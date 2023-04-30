@@ -6,7 +6,7 @@ bl_info = {
     "location": "View3D > UI",
     "description": "Checker selects a cylinder with ring loops",
     "warning": "",
-    "doc_url": "",
+    "doc_url": "https://github.com/Backy3D/Ring-loop-chequer-select",
     "category": "Mesh",
 }
 
